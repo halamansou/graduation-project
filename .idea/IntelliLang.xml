@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GitIgnore" injector-id="xml">
+      <display-name>application</display-name>
+      <single-file value="false" />
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("application"))]]></place>
+    </injection>
+  </component>
+</project>
